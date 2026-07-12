@@ -20,5 +20,3 @@ The design medium is **HTML/CSS/JS** — these are prototypes, not production co
 
 - `light-mode-ai-narrative-customer-display-prototype/README.md` — this file
 - `light-mode-ai-narrative-customer-display-prototype/project/` — the `Light mode - AI Narrative Customer Display Prototype` project files (HTML prototypes, assets, components)
-
-<!-- test edit from new mac setup, Sun Jul 12 19:56:30 IST 2026 -->
